@@ -27,7 +27,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc-13 arquivo de build ativo",
-            "command": "/usr/bin/gcc-13",
+            "command": "C:/MinGW/bin/gcc.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
