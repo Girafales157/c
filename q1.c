@@ -1,3 +1,7 @@
+/*
+1) Faça um algoritmo que receba dois números inteiros e imprima a soma desses dois números.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

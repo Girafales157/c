@@ -1,3 +1,9 @@
+/*
+9) Faça um programa que receba um número inteiro, calcule e imprima:
+• a raiz quadrada desse número;
+• esse número elevado ao quadrado.
+*/
+
 #include <locale.h>
 #include <stdio.h>
 #include <math.h>

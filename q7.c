@@ -1,3 +1,7 @@
+/*
+7) Faça um algoritmo que receba dois números, calcule e imprima um elevado ao outro.
+*/
+
 #include <locale.h>
 #include <stdio.h>
 #include <math.h>

@@ -1,3 +1,7 @@
+/*
+5) Faça um algoritmo que receba duas notas de um aluno e seus respectivos pesos, calcule e imprima a média ponderada dessas notas.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

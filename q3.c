@@ -1,3 +1,7 @@
+/*
+3) Faça um algoritmo que receba dois números inteiros, calcule e imprima a divisão do primeiro número pelo segundo.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

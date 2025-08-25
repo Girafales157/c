@@ -1,3 +1,8 @@
+/*
+8) Faça um algoritmo que receba o valor do salário de um funcionário e o valor do salário mínimo.
+Calcule e imprima quantos salários mínimos ganha esse funcionário.
+*/
+
 #include <locale.h>
 #include <stdio.h>
 

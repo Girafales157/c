@@ -1,3 +1,7 @@
+/*
+4) Faça um algoritmo que receba três notas de um aluno, calcule e imprima a média aritmética entre essas notas.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -20,6 +24,6 @@ int main(){
 
     printf("A média aritmética das notas é: %.1f", m);
     printf("\nGostou do programa? Considere fazer um Pix!\n\tChave: 055.640.612-50\n\n");
-    
+
     return 0;
 }

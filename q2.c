@@ -1,3 +1,7 @@
+/*
+2) Faça um algoritmo que receba dois números reais, calcule e imprima a subtração do primeiro número pelo segundo.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 
