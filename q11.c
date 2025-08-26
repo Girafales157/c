@@ -15,7 +15,7 @@ int main() {
     scanf("%f", &d);
 
     //h^2 = a^2 + b^2
-    //l = d/sqrt(2)
+    l = d/sqrt(2);
 
     l = d / sqrt(2);
     a = l * l;

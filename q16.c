@@ -6,20 +6,22 @@ imprima:
 */
 #include <stdio.h>
 #include <locale.h>
-#include <time.h>
+//#include <time.h>
 
 int main() {
     setlocale(LC_ALL, "Portuguese");
 
     int anoNasc, anoAtual;
-    time_t tmp_s;
+    //time_t tmp_s;
 
-    time(&tmp_s);
+    //time(&tmp_s);
 
-    struct tm *infTmpAtual;
+    //struct tm *infTmpAtual;
 
-    infTmpAtual = localtime(&tmp_s);
-    anoAtual = infTmpAtual->tm_year + 1900;
+    //infTmpAtual = localtime(&tmp_s);
+
+    //anoAtual = infTmpAtual->tm_year + 1900;
+    anoAtual = 2025;
 
     printf("Insira seu ano de nascimento: ");
     scanf("%i", &anoNasc);
